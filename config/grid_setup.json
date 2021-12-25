@@ -1,0 +1,8 @@
+{
+    "max": 1.75,
+    "min": 1,
+    "fixedPoint": 2,
+    "weight": 0.015,
+    "amount": 4,
+    "symbol": "tIOTUSD"
+}
